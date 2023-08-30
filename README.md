@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+A new Flutter project. The quick brown fox jumps over the lazy dog.
 
 ## Getting Started
 
